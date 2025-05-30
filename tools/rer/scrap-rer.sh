@@ -1,0 +1,1 @@
+curl https://www.ratp.fr/themes/ratp/images/picto-color-rer-ligne[A-Z].svg -o "#1.svg"

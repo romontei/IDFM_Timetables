@@ -1,0 +1,1 @@
+curl https://www.ratp.fr/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-[0-30].1496915879.svg -o "#1.svg"
