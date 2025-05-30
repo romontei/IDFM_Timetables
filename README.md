@@ -59,7 +59,10 @@ Pour utiliser cette application, vous devez obtenir une clé API depuis le site 
 
 3. **Recherchez une station** :
    - Utilisez le champ de recherche pour entrer le code `StopArea` de la station que vous souhaitez consulter.
-   - Par exemple, pour la station "Châtelet", vous pourriez utiliser le code `STIF:StopArea:SP:474151:`.
+   - Par exemple, pour la station "Bibliothèque François Mitterrand", vous pourriez utiliser le code `STIF:StopArea:SP:71572:`.
+
+![Capture d’écran 2025-05-30 à 21 30 47](https://github.com/user-attachments/assets/82c65b90-c3ea-4375-a9ee-c7f4e6463e7e)
+
 
 ## 🛡️ Remarques
 
